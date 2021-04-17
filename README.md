@@ -1,7 +1,9 @@
 # Save-The-Ocean
 Diretório destinado ao desenvolvimento do jogo Save The Ocean 
 
+### SBGames G2:Workshop
 
+[Save the Ocean](https://www.sbgames.org/sbgames2019/files/papers/WorkshopG2/199416.pdf)
 
 ### How to Cite Save The Ocean
 ```
